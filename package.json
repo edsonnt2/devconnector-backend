@@ -1,0 +1,25 @@
+{
+  "name": "devconnector2",
+  "version": "1.0.0",
+  "description": "Rede Social para Developers",
+  "main": "server.js",
+  "author": "Edson Rodrigo",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server",
+    "dev": "nodemon src/server"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.2.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.3.1",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.9",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

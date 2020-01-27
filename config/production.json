@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://edson:a1b2c3mongo@devconnector-qgdsa.mongodb.net/devconnector2?retryWrites=true&w=majority",
+  "jwtSecrect": "meutokensecreto",
+  "githubClientId": "e9f49e718de841e2b227",
+  "githubSecret": "08cabcd1762d66ffaf65cb0b617b9449f69fd67e"
+}
